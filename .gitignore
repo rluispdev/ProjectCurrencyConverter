@@ -29,4 +29,4 @@ bin/
 .DS_Store
 
 ### API Key ###
-api_key.txt
+src/api_key.txt...
