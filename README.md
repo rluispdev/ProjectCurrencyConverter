@@ -55,4 +55,4 @@ escolher a moeda de conversão.
 
 ## 📝 Licença
 
-- Este projeto está sob a licença [MIT](https://github.com/rluispdev/ProjectCurrencyConvert-/blob/main/READMELicence.md).
+- Este projeto está sob a licença [MIT](https://github.com/rluispdev/ProjectCurrencyConverter/blob/main/READMELicence.md).
